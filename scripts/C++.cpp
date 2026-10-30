@@ -1,8 +1,9 @@
 /*Lang C++
 env script
-aut Anshu Musaddi
+Manish
 github https://github.com/anshucollege*/
-#include<iostream.h>
+#include<iostream>
+using namespace std;
 int main()
 {
   cout<<" Hello World ";
